@@ -133,5 +133,31 @@ namespace tri_tool.Properties {
                 this["TitreChansonMusique"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Selectionnez d\'abord les photos d\'un même album en les glisant dans le cadre ou e" +
+            "n utilisant les boutons.\r\nPuis appuyez sur valider pour créer l\'album.")]
+        public string TitreSelectionPhotos {
+            get {
+                return ((string)(this["TitreSelectionPhotos"]));
+            }
+            set {
+                this["TitreSelectionPhotos"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Selectionnez d\'abord les vidéos d\'un même album en les glisant dans le cadre ou e" +
+            "n utilisant les boutons.\r\nPuis appuyez sur valider pour créer l\'album.")]
+        public string TitreSelectionVideos {
+            get {
+                return ((string)(this["TitreSelectionVideos"]));
+            }
+            set {
+                this["TitreSelectionVideos"] = value;
+            }
+        }
     }
 }

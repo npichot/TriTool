@@ -33,5 +33,13 @@ Puis appuyez sur Suivant.</Value>
       <Value Profile="(Default)">Selectionnez une chanson et rentrez son nom.
 Puis appuyez sur Suivant.</Value>
     </Setting>
+    <Setting Name="TitreSelectionPhotos" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Selectionnez d'abord les photos d'un même album en les glisant dans le cadre ou en utilisant les boutons.
+Puis appuyez sur valider pour créer l'album.</Value>
+    </Setting>
+    <Setting Name="TitreSelectionVideos" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Selectionnez d'abord les vidéos d'un même album en les glisant dans le cadre ou en utilisant les boutons.
+Puis appuyez sur valider pour créer l'album.</Value>
+    </Setting>
   </Settings>
 </SettingsFile>
