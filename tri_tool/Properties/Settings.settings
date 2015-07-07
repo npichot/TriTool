@@ -14,5 +14,24 @@
     <Setting Name="initFolder" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>
     </Setting>
+    <Setting Name="LastSelectionFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users</Value>
+    </Setting>
+    <Setting Name="TitreSelectionMusique" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Selectionnez d'abord vos fichiers en les glisant dans le cadre ou en utilisant les boutons.
+Puis appuyez sur valider.</Value>
+    </Setting>
+    <Setting Name="TitreArtisteMusique" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Selectionnez une ou plusieurs chanson et rentrez le nom d'un artiste.
+Puis appuyez sur Suivant.</Value>
+    </Setting>
+    <Setting Name="TitreAlbumMusique" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Selectionnez une ou plusieurs chanson et rentrez le nom d'un album.
+Puis appuyez sur Suivant.</Value>
+    </Setting>
+    <Setting Name="TitreChansonMusique" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Selectionnez une chanson et rentrez son nom.
+Puis appuyez sur Suivant.</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

@@ -70,5 +70,68 @@ namespace tri_tool.Properties {
                 this["initFolder"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users")]
+        public string LastSelectionFolder {
+            get {
+                return ((string)(this["LastSelectionFolder"]));
+            }
+            set {
+                this["LastSelectionFolder"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Selectionnez d\'abord vos fichiers en les glisant dans le cadre ou en utilisant le" +
+            "s boutons.\r\nPuis appuyez sur valider.")]
+        public string TitreSelectionMusique {
+            get {
+                return ((string)(this["TitreSelectionMusique"]));
+            }
+            set {
+                this["TitreSelectionMusique"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Selectionnez une ou plusieurs chanson et rentrez le nom d\'un artiste.\r\nPuis appuy" +
+            "ez sur Suivant.")]
+        public string TitreArtisteMusique {
+            get {
+                return ((string)(this["TitreArtisteMusique"]));
+            }
+            set {
+                this["TitreArtisteMusique"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Selectionnez une ou plusieurs chanson et rentrez le nom d\'un album.\r\nPuis appuyez" +
+            " sur Suivant.")]
+        public string TitreAlbumMusique {
+            get {
+                return ((string)(this["TitreAlbumMusique"]));
+            }
+            set {
+                this["TitreAlbumMusique"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Selectionnez une chanson et rentrez son nom.\r\nPuis appuyez sur Suivant.")]
+        public string TitreChansonMusique {
+            get {
+                return ((string)(this["TitreChansonMusique"]));
+            }
+            set {
+                this["TitreChansonMusique"] = value;
+            }
+        }
     }
 }

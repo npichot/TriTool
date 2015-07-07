@@ -6,3 +6,4 @@ E:\Documents\Programmation\tri_tool\tri_tool\bin\Debug\WindowsFormsApplication1.
 E:\Documents\Programmation\tri_tool\tri_tool\bin\Debug\WindowsFormsApplication1.pdb
 E:\Documents\Programmation\tri_tool\tri_tool\obj\Debug\WindowsFormsApplication1.exe
 E:\Documents\Programmation\tri_tool\tri_tool\obj\Debug\WindowsFormsApplication1.pdb
+E:\Documents\Programmation\tri_tool\tri_tool\bin\Debug\taglib-sharp.dll
