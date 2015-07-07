@@ -1,1 +1,8 @@
 E:\Documents\Programmation\tri_tool\tri_tool\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Documents\Programmation\tri_tool\tri_tool\obj\Debug\tri_tool.csprojResolveAssemblyReference.cache
+E:\Documents\Programmation\tri_tool\tri_tool\obj\Debug\tri_tool.csproj.GenerateResource.Cache
+E:\Documents\Programmation\tri_tool\tri_tool\obj\Debug\tri_tool.Properties.Resources.resources
+E:\Documents\Programmation\tri_tool\tri_tool\bin\Debug\WindowsFormsApplication1.exe
+E:\Documents\Programmation\tri_tool\tri_tool\bin\Debug\WindowsFormsApplication1.pdb
+E:\Documents\Programmation\tri_tool\tri_tool\obj\Debug\WindowsFormsApplication1.exe
+E:\Documents\Programmation\tri_tool\tri_tool\obj\Debug\WindowsFormsApplication1.pdb
