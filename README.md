@@ -10,3 +10,5 @@ Content take in charge :
 
 This code was quickly made. It can contain mistakes and it may be not optimal.
 If you want to contribute, just send me your push proposition.
+
+NB: this is a french project
